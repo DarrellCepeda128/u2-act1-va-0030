@@ -1,0 +1,36 @@
+
+INFORME DE METADATOS Y PROPIEDADES
+==================================
+
+Nombre del archivo: img-jirafa-0030.jpg
+Ruta del archivo: C:\IA_Gpo3H\VA_0030\u2-ml-act1-0030\p1-act1-0030\img-original-0030\img-jirafa-0030.jpg
+Formato por extension: .JPG
+Tamano en bytes: 6716
+Tamano en KB: 6.56
+Tamano en MB: 0.0064
+
+DIMENSIONES
+-----------
+Ancho: 200 pixeles
+Alto: 148 pixeles
+Resolucion: 200 x 148
+Total de pixeles: 29,600
+
+CANALES Y DATOS
+---------------
+Numero de canales: 3
+Orden de canales: BGR
+Tipo de datos: uint8
+Valor minimo de pixel: 0
+Valor maximo de pixel: 255
+Promedio general de los valores: 118.12
+
+PROMEDIO POR CANAL
+------------------
+Azul (B): 107.30
+Verde (G): 120.89
+Rojo (R): 126.18
+
+Nota: el formato se identifica por la extension
+del archivo. La resolucion indica las dimensiones
+en pixeles y no los puntos por pulgada (DPI).
